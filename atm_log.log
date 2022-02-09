@@ -1,0 +1,14 @@
+2022-02-09 15:29:08,293 : INFO : New account created cardID : 12345678
+2022-02-09 15:29:10,446 : INFO : User has logged in, cardID : 12345678
+2022-02-09 15:29:25,023 : INFO : 2000 deposited, new balance : 2000, cardID : 12345678
+2022-02-09 15:29:34,260 : INFO : 200 withdrawn, new balance : 1800, cardID : 12345678
+2022-02-09 15:29:44,636 : INFO : User has logged out, cardID : 12345678
+
+2022-02-09 15:30:21,174 : INFO : New account created cardID : 87654321
+2022-02-09 15:30:23,828 : INFO : User has logged in, cardID : 87654321
+2022-02-09 15:30:25,184 : INFO : User has logged out, cardID : 87654321
+
+2022-02-09 15:30:53,008 : INFO : User has logged in, cardID : 87654321
+2022-02-09 15:30:59,328 : INFO : 100 deposited, new balance : 100, cardID : 87654321
+2022-02-09 15:31:00,693 : INFO : User has logged out, cardID : 87654321
+
